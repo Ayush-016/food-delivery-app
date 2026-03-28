@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# MongoDB local files (if any)
+*.db
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Uploads (IMPORTANT - images)
+uploads/
+
+# Cache
+.cache/
+
+# pytest
+.pytest_cache/
+
+# Mypy
+.mypy_cache/
+
+# Coverage
+htmlcov/
+.coverage
